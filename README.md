@@ -3,7 +3,7 @@ Python ve Selenium WebDriver'da güçlü bir temele sahip, otomasyon testlerine 
 hevesli. Kalite güvence süreçlerine katkıda bulunmak, deneyimli
 profesyonellerden bilgi edinmek ve yazılım testinde değerli beceriler geliştirmek için giriş
 düzeyinde bir test otomasyon uzmanlığına sahibim.
-test projelerinde işbirliği yapabilirim.
+Test projelerinde işbirliği yapabilirim.
 
 
 ## 🌐 Socials:
